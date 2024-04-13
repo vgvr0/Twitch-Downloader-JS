@@ -1,4 +1,4 @@
-# Twitter Video Downloader
+// Twitter Video Downloader
 const TwitchDownloader = require('twitch-dl');
 
 // Twitch video ID to download
